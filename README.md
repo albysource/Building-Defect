@@ -24,5 +24,5 @@ such as Roof defects, Flakes and cracks in the building. In this model, we make 
 - Kritik Kumar
 
 ## Project Video Explanation 
-<p> https://drive.google.com/file/d/1zdX0T8ktQNOeFgkqol7EMq4UzfjckxpJ/view?usp=sharing </p> 
+<p>Link: https://drive.google.com/file/d/1zdX0T8ktQNOeFgkqol7EMq4UzfjckxpJ/view?usp=sharing </p> 
 
